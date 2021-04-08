@@ -1,0 +1,73 @@
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20pt;
+}
+
+
+body {
+    background-color: bisque;
+    
+}
+
+.billSign {
+    padding: 7px;
+    background-color: brown;
+    text-align: center;
+    color: ivory;
+}
+
+.basicInfo {
+    text-align: center;
+}
+
+.committeesServed {
+    padding: 7px;
+    background-color: brown;
+    text-align: center;
+    color: ivory;
+}
+
+#name {
+  margin-bottom: 2rem;
+  font-size: 45px;
+  color: ivory;
+  background-color: brown;
+  padding: 7px;
+}
+
+#district {
+  color: ivory;
+  background-color: brown;
+  padding: 7px;
+}
+
+
+
+
+
+
+a:link {
+color: green;
+    background-color: transparent;
+    text-decoration: underline;
+   
+  }
+  
+  a:visited {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
